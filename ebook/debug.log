@@ -1,0 +1,18 @@
+2017-11-01 10:28:12 [scrapy.utils.log] INFO: Scrapy 1.4.0 started (bot: ebook)
+2017-11-01 10:28:12 [scrapy.utils.log] INFO: Overridden settings: {'BOT_NAME': 'ebook', 'CONCURRENT_ITEMS': 200, 'CONCURRENT_REQUESTS': 100, 'CONCURRENT_REQUESTS_PER_DOMAIN': 50, 'CONCURRENT_REQUESTS_PER_IP': 50, 'LOG_FILE': './debug.log', 'LOG_STDOUT': True, 'NEWSPIDER_MODULE': 'ebook.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['ebook.spiders']}
+2017-11-01 10:28:12 [stdout] INFO: articles
+2017-11-01 10:28:12 [stdout] INFO: contents
+2017-11-01 10:28:12 [stdout] INFO: details
+2017-11-01 10:28:12 [stdout] INFO: pages
+2017-11-01 10:29:47 [scrapy.utils.log] INFO: Scrapy 1.4.0 started (bot: ebook)
+2017-11-01 10:29:47 [scrapy.utils.log] INFO: Overridden settings: {'BOT_NAME': 'ebook', 'CONCURRENT_ITEMS': 200, 'CONCURRENT_REQUESTS': 100, 'CONCURRENT_REQUESTS_PER_DOMAIN': 50, 'CONCURRENT_REQUESTS_PER_IP': 50, 'LOG_FILE': './debug.log', 'LOG_STDOUT': True, 'NEWSPIDER_MODULE': 'ebook.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['ebook.spiders']}
+2017-11-01 10:29:47 [stdout] INFO: articles
+2017-11-01 10:29:47 [stdout] INFO: contents
+2017-11-01 10:29:47 [stdout] INFO: details
+2017-11-01 10:29:47 [stdout] INFO: pages
+2017-11-01 10:36:46 [scrapy.utils.log] INFO: Scrapy 1.4.0 started (bot: ebook)
+2017-11-01 10:36:46 [scrapy.utils.log] INFO: Overridden settings: {'BOT_NAME': 'ebook', 'CONCURRENT_ITEMS': 200, 'CONCURRENT_REQUESTS': 100, 'CONCURRENT_REQUESTS_PER_DOMAIN': 50, 'CONCURRENT_REQUESTS_PER_IP': 50, 'LOG_FILE': './debug.log', 'LOG_STDOUT': True, 'NEWSPIDER_MODULE': 'ebook.spiders', 'ROBOTSTXT_OBEY': True, 'SPIDER_MODULES': ['ebook.spiders']}
+2017-11-01 10:36:46 [stdout] INFO: articles
+2017-11-01 10:36:46 [stdout] INFO: contents
+2017-11-01 10:36:46 [stdout] INFO: details
+2017-11-01 10:36:46 [stdout] INFO: pages
